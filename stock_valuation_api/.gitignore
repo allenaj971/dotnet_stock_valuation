@@ -1,0 +1,105 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific Files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-specific Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE-specific Files
+.vscode/
+.idea/
+*.vcxproj.user
+*.vcxproj.filters
+*.code-workspace
+
+# Rider IDE
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Logs
+*.log
+
+# ASP.NET Core Secrets
+secrets.json
+
+# Environment-specific Files
+.env
+.env.*
+
+# Publish Output
+wwwroot/
+appsettings.Production.json
+appsettings.Staging.json
+
+# npm / Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Package Management
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# Database Files
+*.mdf
+*.ldf
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Resharper
+_ReSharper.*
+*.DotSettings.user
+resharper.xml
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Coverage Files
+coverage/
+*.coverage
+*.coveragexml
+*.cov
+*.coverage*
+
+# Static Files
+staticfiles/
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Azure Pipelines
+*.tfstate
+*.tfstate.backup
+
+# Other
+*.lock.json
